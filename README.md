@@ -1,2 +1,0 @@
-# Meowth
-Look around you
